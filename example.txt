@@ -1,0 +1,8 @@
+https://www.fusioncharts.com/dev/getting-started/plain-javascript/your-first-chart-using-plain-javascript
+
+
+http://139.59.68.91/-/web/detail/froalacharts
+
+
+
+https://cdn.fusioncharts.com/fusioncharts/froalacharts/froalacharts.js

@@ -1,0 +1,16 @@
+{
+  "name": "licensingtest-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "froalacharts": "^1.0.0",
+    "redraphael": "^1.1.26"
+  }
+}
